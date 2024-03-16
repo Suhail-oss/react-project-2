@@ -1,0 +1,74 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+/* header section is use to css */
+.head {
+    padding: 10px;
+    background: rgb(5, 7, 18);
+}
+
+.head h2 {
+    text-align: center;
+   padding-top: 20px;
+
+    font-weight: bolder;
+    font-size: 3em;
+    color: cyan;
+}
+
+.head img {
+    margin-top: -83px;
+    margin-left: 40px;
+}
+
+
+/* menu in css use */
+.navbar {
+    background: rgb(248, 111, 111);
+    
+}
+
+
+.naa {
+    padding: 0px 50px;
+    font-size: 2vw;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Geneva;
+    color: blanchedalmond;
+}
+
+/* home page css use */
+
+.col {
+    background: rgb(116, 22, 22);
+    color: rgb(132, 235, 201);
+    text-align: justify;
+    padding-top: 15px;
+}
+
+.col1 {
+    background: rgb(95, 46, 46);
+    color: rgb(141, 243, 243);
+    text-align: justify;
+}
+
+.col2 {
+    background: rgb(147, 35, 35);
+    color: rgb(182, 235, 221);
+    text-align: justify;
+}
+
+/* footer in css use */
+
+.footer {
+    padding: 30px;
+    background: black;
+    color: aliceblue;
+    font-weight: bold;
+    text-align: center;
+    letter-spacing: 7px;
+}
